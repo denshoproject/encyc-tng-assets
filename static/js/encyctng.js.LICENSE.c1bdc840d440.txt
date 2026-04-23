@@ -1,0 +1,12 @@
+/*!
+ * Glide.js v3.7.1
+ * (c) 2013-2024 Jędrzej Chałubek (https://github.com/jedrzejchalubek/)
+ * Released under the MIT License.
+ */
+
+/*!
+ * clipboard.js v2.0.11
+ * https://clipboardjs.com/
+ *
+ * Licensed MIT © Zeno Rocha
+ */
